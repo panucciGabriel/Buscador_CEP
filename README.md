@@ -15,8 +15,7 @@ Buscador de CEP é um projeto Java simples que permite consultar endereços bras
 
 ## Tecnologias
 
-- Java 17+
-- HTTP Client padrão do Java 11+
+- Java SE 24
 - Biblioteca Gson para manipulação JSON
 
 ---
