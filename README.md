@@ -19,10 +19,3 @@ Buscador de CEP é um projeto Java simples que permite consultar endereços bras
 - Biblioteca Gson para manipulação JSON
 
 ---
-
-## Como executar
-
-1. Clone este repositório.
-2. Compile o projeto:
-   ```bash
-   javac *.java 
